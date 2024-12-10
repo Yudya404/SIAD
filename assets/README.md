@@ -1,57 +1,61 @@
-Introduction
-============
+# Kiaalap admin dashboard
+Free admin dashboard template
 
-![Bower version](https://img.shields.io/bower/v/adminlte.svg)
-[![npm version](https://img.shields.io/npm/v/admin-lte.svg)](https://www.npmjs.com/package/admin-lte)
-[![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
-[![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
+# Preview
 
-**AdminLTE** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+![Kiaalap admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/kiaalap-free-bootstrap-admin-dashboard-template.jpg)
 
-**Download & Preview on [AdminLTE.IO](https://adminlte.io)**
+# Overview
+Kiaalap is a full-featured, multipurpose, premium bootstrap admin template built with Bootstrap 4 Framework, HTML5, CSS and JQuery.
 
-### Looking for Premium Templates?
-**AdminLTE.IO just opened a new premium templates website. Hand picked to ensure the best quality and the most affordable prices. Visit https://themequarry.com for more information.**
+It is a fully responsive bootstrap admin template/bootstrap admin dashboard template that comes with a huge collection of reusable UI components & plugins.
 
-## Documentation & Installation Guide
-Visit the [online documentation](https://adminlte.io/docs) for the most
-updated guide.
+We believe we have covered everything you need to set up an All kind of website.If there is something that you would like to know then we are happy to help you out.
 
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE2.png "AdminLTE Presentation")
+# Template Features:
 
-### Contribution
-Contribution are always **welcome and recommended**! Here is how:
+- 50+ PAGES
+- VALID HTML5 & CSS3
+- MATERIAL DESIGN
+- RESPONSIVE LAYOUT
+- 3 HOME VERSIONS
+- NEAT, CLEAN AND SIMPLE DESIGN
+- CREATIVE AND MODERN DESIGN
+- BUILT BASED ON BOOTSTRAP 3+
+- FULLY RESPONSIVE
+- CROSS BROWSER OPTIMIZATION
+- WELL COMMENTED HTML & CSS FILES
+- GOOGLE FONTS
+- GOOGLE MAP
+- C3 AND D3 CHARTS
+- PLOT CHART
+- PEITY CHARTS
+- SPARKLINES
+- CHOSEN
+- CODEMIRROR
+- COLORPICKER
+- IMAGES CROPPER
+- DATA MAP
+- DATEPICKER
+- X-EDITABLE
+- DUAL LISTBOX
+- GOOGLE MAPS
+- ICHECK
+- RANGESLIDER
+- JVECTORMAP
+- KNOB
+- MAPAEL
+- PASSWORD METER
+- PDF VIEWER
+- TOUCHSPIN
+- JSTREE
+- LOBIBOX
+- SUMMERNOTE
 
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
-- Make your changes
-- Create a pull request
+# Other resources:
 
-#### Contribution Requirements:
-
-- When you contribute, you agree to give a non-exclusive license to AdminLTE.IO to use that contribution in any context as we (AdminLTE.IO) see appropriate.
-- If you use content provided by another party, it must be appropriately licensed using an [open source](http://opensource.org/licenses) license.
-- Contributions are only accepted through Github pull requests.
-- Finally, contributed code must work in all supported browsers (see above for browser support).
-
-### License
-AdminLTE is an open source project by [AdminLTE.IO](https://adminlte.io) that is licensed under [MIT](http://opensource.org/licenses/MIT). AdminLTE.IO
-reserves the right to change the license of future releases. Wondering what you can or can't do? View the [license guide](https://adminlte.io/docs/license).
-
-### Legacy Releases
-AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.io/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/almasaeed2010/AdminLTE/releases) section above.
-
-### Change log
-**For the most recent change log, visit the [releases page](https://github.com/almasaeed2010/AdminLTE/releases) or the [changelog file](https://github.com/almasaeed2010/AdminLTE/blob/master/changelog.md).** We will add detailed release notes to each new release. 
-
-### Image Credits
-- [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-- [Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-- [Pickaface](http://pickaface.net/)
-- [Unsplash](https://unsplash.com/)
-- [Uifaces](http://uifaces.com/)
-
-### Donations
-Donations are **greatly appreciated!**
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+- [Bootstrap Dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
+- [Angular Dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
+- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
+- [Website Templates](https://colorlib.com/wp/templates/)
+- [Free WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
